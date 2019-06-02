@@ -1,7 +1,7 @@
 @echo off
 
-del /S /Q Project\bin
-del /S /Q Project\classes
-del /S /Q Project\src\build
+del /S /Q Matrix\bin
+del /S /Q Matrix\classes
+del /S /Q Matrix\src\build
 
 exit

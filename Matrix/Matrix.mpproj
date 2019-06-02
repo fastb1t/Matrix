@@ -1,7 +1,7 @@
 <Project>
-	<MIDlet Name="Matrix" Vendor="fastb1t" Version="1.0.0" Icon="/icon.png"/>
+	<MIDlet Name="Matrix" Vendor="fastb1t" Version="1.0" Icon="/icon.png"/>
 	<Sources>
-		<source filename="Project.mpsrc"/>
+		<source filename="Matrix.mpsrc"/>
 	</Sources>
 	<Resources>
 		<resource filename="icon.png" configurations=":all:"/>
